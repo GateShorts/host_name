@@ -3,6 +3,10 @@
         {
             "faselhd": "https://www.faselhdwatch.top",
             "checkimage": "checkimage",
+            "pageanime": "/anime/page/1",
+            "pageseries": 6,
+            "pagemovie": 4,
+            "pagecartoon": 1,
             "blkom": "https://animeblkom.tv",
             "xsanime": "https://xsaniime.com",
             "animeiat": "https://api.animeiat.co",
