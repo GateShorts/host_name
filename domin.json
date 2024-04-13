@@ -33,6 +33,9 @@
             "animeday": "https://www.anime-day.com",
             "animehq": "https://animhq.com",
             "toanime": "https://witanime.cyou",
+            "sub_spacetoongo": "/app/spacetoongo.php?&translate_type=sub",
+            "dub_spacetoongo": "/app/spacetoongo.php?&translate_type=dub",
+            "choser_spacetoongo": "/app/spacetoongo.php?&page=3",
             "spacetoongo": "https://sp.ufogrendizer.tv"
         }
     ]
