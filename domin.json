@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "fasel": "https://www.faselhdwatch.top",
+            "faselhd": "https://www.faselhdwatch.top",
             "blkom": "https://animeblkom.tv",
             "xsanime": "https://xsaniime.com",
             "animeiat": "https://api.animeiat.co",
@@ -22,6 +22,8 @@
             "egydead": "https://egydead.space",
             "page_egydead": "/app/egydead.php?&page=2",
             "oldcartoon": "https://www.ufogrendizer.tv",
+            "page_oldcartoon": "/app/oldcartoon.php?&translate_type=dub",
+            "series_oldcartoon": "/app/oldcartoon.php?&translate_type=sub",
             "anime3rb": "https://anime3rb.com",
             "animeday": "https://www.anime-day.com",
             "animehq": "https://animhq.com",
