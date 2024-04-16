@@ -2,6 +2,8 @@
     "data": [
         {
             "faselhd": "https://www.faselhdwatch.top",
+            "serverfo": "serverfo",
+            "checktoons": "checktoons",
             "checkimage": "checkimage",
             "pageanime": "/anime/page/1",
             "pageseries": 6,
@@ -24,6 +26,7 @@
             "checkinfocr": "checkinfocr",
             "animezid": "https://animezid.org",
             "cima4u": "",
+            "cima4utv": "",
             "stardima": "https://stardima.vip",
             "page_cartoon": "/app/stardima.php?",
             "stardimajax": "https://stardima.vip/watch/wp-admin/admin-ajax.php",
